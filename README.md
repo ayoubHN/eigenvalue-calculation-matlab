@@ -73,5 +73,3 @@ Bachelor's Thesis: bachelor-thesis-eigenvalue.pdf
 
 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elhassani)  
 🔗 [GitHub](https://github.com/ayoubHN)
-
-
