@@ -68,8 +68,10 @@ Bachelor's Thesis: bachelor-thesis-eigenvalue.pdf
 
 ## 👤 Author
 
-- **Ayoub Elhassani**  
-- 📧 ayoubelhassani32@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elhassani)  
-- 🔗 [GitHub](https://github.com/ayoubHN)
+**Ayoub Elhassani**  
+📧 ayoubelhassani32@gmail.com  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elhassani)  
+🔗 [GitHub](https://github.com/ayoubHN)
+
 
