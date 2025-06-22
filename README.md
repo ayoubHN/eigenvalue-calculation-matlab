@@ -70,7 +70,3 @@ Bachelor's Thesis: bachelor-thesis-eigenvalue.pdf
 Ayoub Elhassani
 📧 ayoubelhassani32@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-elhassani) | [GitHub](https://github.com/ayoubHN)
-
-yaml
-Copy
-Edit
